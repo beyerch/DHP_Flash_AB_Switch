@@ -1,4 +1,7 @@
 # DHP_Flash_AB_Switch
+
+![DHP Flash AB Switch](https://github.com/beyerch/DHP_Flash_AB_Switch/blob/master/28F400_Duplicator_Circuit.jpg?raw=true "DHP Flash AB Switch Front View")
+
 Flash Memory "A-B" Switch for 44-pin PSOP memories such as Intel 28F400
 
 The purpose of this circuit is to replace a single 28F400 Intel Flash Memory (or other 44 pin PSOP) with a circuit that allows for real-time switching between twomemory chips OR an equivalent memory storage.  The system should be able to switch at any time (while powered up) and should be able to be totally transparent to the Target board.
